@@ -49,10 +49,17 @@ header {
 }
 .float-left {
     float: left; 
-    width: 150px; 
+    width: 175px; 
     margin-right: 15px; 
     margin-bottom: 15px; 
 }
+float-right {
+    float: right; 
+    width: 175px; 
+    margin-right: 15px; 
+    margin-bottom: 15px; 
+}
+
 
 /* BURGER MENU (For mobile) */
 .burger {
